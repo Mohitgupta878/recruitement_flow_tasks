@@ -88,14 +88,14 @@ output = {
 #print("{" + "\n".join("{!r}: {!r},".format(k, v) for k, v in output.items()) + "}")
 #print (*[(x,y)for x,y in output.items()],sep="\n")
 
-def print_nested_dict(dictionary, indent=0):
+'''def print_nested_dict(dictionary, indent=0):
     for key, value in dictionary.items():
         if isinstance(value, dict):
             print("  " * indent + f"{key}:")
             print_nested_dict(value, indent + 1)
         else:
             print("  " * indent + f"{key}: {value}")
-
+'''
 
 
 # Print the nested dictionary in sequential order
