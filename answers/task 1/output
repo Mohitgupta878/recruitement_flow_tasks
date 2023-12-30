@@ -1,0 +1,61 @@
+{
+    "linkedin_profile": "www.linkedin.com/in/martin-boyle-59031711",
+    "experience": [
+        {
+            "organization": "The West Brom",
+            "designation": "COO & Executive Director West Brom",
+            "from": "April 2023",
+            "to": "Present",
+            "duration": "8 months"
+        },
+        {
+            "organization": "Metro Bank (UK)",
+            "designation": "Chief Transformation Officer Metro Bank",
+            "from": "June 2020",
+            "to": "April 2023",
+            "duration": "2 years 11 months"
+        },
+        {
+            "organization": "8 years 8 months",
+            "designation": "Chief Transformation Officer",
+            "from": "November 2016",
+            "to": "June 2020",
+            "duration": "3 years 8 months"
+        },
+        {
+            "organization": "Swindon, United Kingdom",
+            "designation": "Director Business Transformation",
+            "from": "November 2011",
+            "to": "November 2016",
+            "duration": "5 years 1 month"
+        },
+        {
+            "organization": "Nationwide Building Society",
+            "designation": "Head of Group Programmes",
+            "from": "August 2007",
+            "to": "2010",
+            "duration": "3 years"
+        },
+        {
+            "organization": "Accenture",
+            "designation": "Manager",
+            "from": "1994",
+            "to": "2003",
+            "duration": "9 years"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Cambridge University",
+            "degree": "Master of Philosophy (MPhil), Management Studies \u00b7",
+            "from": "1993",
+            "to": "1994"
+        },
+        {
+            "institution": "Queens University Belfast",
+            "degree": "Bachelor of Science (BSc), Computer Science \u00b7",
+            "from": "1989",
+            "to": "1992"
+        }
+    ]
+}
